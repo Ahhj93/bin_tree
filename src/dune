@@ -1,0 +1,4 @@
+(library
+ (name bin_tree)
+ (public_name bin_tree)
+)

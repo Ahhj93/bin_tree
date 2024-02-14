@@ -1,0 +1,4 @@
+(test
+ (name test_bin_tree)
+ (libraries bin_tree)
+)
