@@ -13,7 +13,7 @@
 
 (license MIT)
 
-(documentation https://github.com/Ahhj93/bin_tree-docs)
+(documentation https://ahhj93.github.io/bin_tree/)
 
 (package
  (name bin_tree)
