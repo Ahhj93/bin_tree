@@ -13,7 +13,7 @@
 
 (license LICENSE)
 
-(documentation https://url/to/documentation)
+(documentation https://github.com/Ahhj93/bin_tree-docs)
 
 (package
  (name bin_tree)
